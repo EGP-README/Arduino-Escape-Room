@@ -21,9 +21,11 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 - Consists of a heat sensor and a light sensor
 - To solve, the light sensor must be covered or the lights must be turned off to get below the specificed darkness threshold and the heat sensor must be heated to around 45 degrees celsius which needed a lighter to be held to it
 
-![heat_light_sensors](https://user-images.githubusercontent.com/103903501/188039201-00284e4e-b62e-481e-a2f3-2c95793a502b.jpg)
+
+![top_down](https://user-images.githubusercontent.com/103903501/188039209-b9b5151e-d310-44da-a239-7080942cd583.jpg)
 ![LCD_screen](https://user-images.githubusercontent.com/103903501/188039203-9a3f2b9a-2918-45a4-9ce0-ca8bbafb4479.jpg)
 ![riddle1](https://user-images.githubusercontent.com/103903501/188039205-083858fc-db15-45bf-87a2-f5ed5deb717f.jpg)
 ![riddle2](https://user-images.githubusercontent.com/103903501/188039206-f64fcb80-8d93-4f60-a272-284e3e7ebd6d.jpg)
 ![riddle2_2](https://user-images.githubusercontent.com/103903501/188039207-8dc3c94c-eb0b-427c-b29f-9d6044d78c76.jpg)
-![top_down](https://user-images.githubusercontent.com/103903501/188039209-b9b5151e-d310-44da-a239-7080942cd583.jpg)
+![heat_light_sensors](https://user-images.githubusercontent.com/103903501/188039201-00284e4e-b62e-481e-a2f3-2c95793a502b.jpg)
+
