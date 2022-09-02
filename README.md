@@ -6,6 +6,7 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 - Controls an LCD screen displaying the status of the Escape Room
 - Controls a small buzzer that emits a short tone upon each riddle being solved
 - Controls LEDs that light up with each riddle being solved
+- The codes, and state of devices that trigger riddles to be solved are hard coded and easily adjusted to fit new riddle solutions
 
 ## Riddle 1
 - Consists of a Tilt switch which was placed in a physical cylander and must be in the correct binary state for the riddle solve to trigger
@@ -13,3 +14,10 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 - Servo motors act as pointers to numbers on the riddle board. The riddle involes getting them to point to a specific code and having the cylinder int he right position at the same time
 
 ## Riddle 2
+- Consists of a spinning fan powered by a modulating motor, a water depth sensor, and a keypad for code entry
+- To solve riddle two, the fan must be stopped by dipping the wtaer depth sensor in a cup of water and the secret code must be entered
+
+## Riddle 3
+- Consists of a heat sensor and a light sensor
+- To solve, the light sensor must be covered or the lights must be turned off to get below the specificed darkness threshold and the heat sensor must be heated to around 45 degrees celsius which needed a lighter to be held to it
+
