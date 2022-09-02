@@ -9,7 +9,7 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 - The codes, and state of devices that trigger riddles to be solved are hard coded and easily adjusted to fit new riddle solutions
 
 ## Riddle 1
-- Consists of a Tilt switch which was placed in a physical cylander and must be in the correct binary state for the riddle solve to trigger
+- Consists of a Tilt switch which was placed in a physical cylinder and must be in the correct binary state for the riddle to reach the solved state
 - Includes four servo motors which rotate at the press of button switches; servos must be at right angle all at the same time to trigger win state
 - Servo motors act as pointers to numbers on the riddle board. The riddle involes getting them to point to a specific code and having the cylinder int he right position at the same time
 
