@@ -19,7 +19,7 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 
 ## Riddle 3
 - Consists of a heat sensor and a light sensor
-- To solve, the light sensor must be covered or the lights must be turned off to get below the specificed darkness threshold and the heat sensor must be heated to around 45 degrees celsius which needed a lighter to be held to it
+- To solve, the light sensor must be covered or the lights must be turned off to get below the specificed darkness threshold and the heat sensor must be heated to around 45 degrees celsius which requires a lighter
 
 
 ![top_down](https://user-images.githubusercontent.com/103903501/188039209-b9b5151e-d310-44da-a239-7080942cd583.jpg)
