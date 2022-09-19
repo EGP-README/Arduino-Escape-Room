@@ -2,7 +2,7 @@
 Arduino Sketches that control various sensors and actuators for a specific puzzle and hardware setup.
 
 ## C2 - Escape Solution Command and Control
-- The C2 rotates a servo moter which releases an RFID key that "Deactivates" the Escape Room to complete the game
+- The C2 rotates a servo motor which releases an RFID key that "Deactivates" the Escape Room to complete the game
 - Controls an LCD screen displaying the status of the Escape Room
 - Controls a small buzzer that emits a short tone upon each riddle being solved
 - Controls LEDs that light up with each riddle being solved
