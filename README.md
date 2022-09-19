@@ -11,15 +11,15 @@ Arduino Sketches that control various sensors and actuators for a specific puzzl
 ## Riddle 1
 - Consists of a Tilt switch which was placed in a physical cylinder and must be in the correct binary state for the riddle to reach the solved state
 - Includes four servo motors which rotate at the press of button switches; servos must be at right angle all at the same time to trigger win state
-- Servo motors act as pointers to numbers on the riddle board. The riddle involes getting them to point to a specific code and having the cylinder int he right position at the same time
+- Servo motors act as pointers to numbers on the riddle board. The riddle involves getting them to point to a specific combination and having the cylinder in the right position at the same time
 
 ## Riddle 2
 - Consists of a spinning fan powered by a modulating motor, a water depth sensor, and a keypad for code entry
-- To solve riddle two, the fan must be stopped by dipping the wtaer depth sensor in a cup of water and the secret code must be entered
+- To solve riddle two, the fan must be stopped by dipping the water depth sensor in a cup of water and the secret code must be entered
 
 ## Riddle 3
 - Consists of a heat sensor and a light sensor
-- To solve, the light sensor must be covered or the lights must be turned off to get below the specificed darkness threshold and the heat sensor must be heated to around 45 degrees celsius which requires a lighter
+- To solve, the light sensor must be covered or the lights must be turned off to get below the specified darkness threshold and the heat sensor must be heated to around 45 degrees celsius which requires a lighter
 
 
 ![top_down](https://user-images.githubusercontent.com/103903501/188039209-b9b5151e-d310-44da-a239-7080942cd583.jpg)
